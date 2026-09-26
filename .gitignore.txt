@@ -1,0 +1,11 @@
+# MATLAB临时文件
+*.asv
+*.fig
+*.mex*
+*.log
+*.out
+
+# 屏蔽所有数据集mat文件
+matlab_code/data/*.mat
+# 屏蔽实验输出文件夹
+matlab_code/results/
