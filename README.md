@@ -1,6 +1,6 @@
 # SMSC-VRA
 
-MATLAB implementation of **SMSC-VRA** (Scalable Multi-view Subspace Clustering with View Rarity Analysis). Paper: *Knowledge-Based Systems*.
+MATLAB implementation of **SMSC-VRA** (Scalable Multi-view Subspace Clustering with View Rarity Analysis).
 
 ## Quick Start
 
@@ -28,14 +28,3 @@ See data/README_data.md for dataset format requirements.
 ## Requirements
 
 - MATLAB R2020b or later
-
-## Citation
-
-If you use this code, please cite:
-
-    @misc{wang2026smscvra,
-      title={Geometric-driven Scalable Multi-view Subspace Clustering with View Rarity Analysis},
-      author={Wang, Jingqiu and Yang, Geping and Yang, Yiyang and Chen, Can and Gong, Zhiguo and Hao, Zhifeng},
-      year={2026},
-      note={Submitted to Knowledge-Based Systems}
-    }
